@@ -1,4 +1,4 @@
-### Welcome to Zahar's profile!<img width="28px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+### Welcome to my profile!<img width="28px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 <a href="https://vk.com/zahar2048">
 <img width="28px" alt="VK" title="VK" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png"/>
@@ -51,7 +51,7 @@ Soft skills:
 - Communication
 - Team work
 
-<a href="https://github.com/ZaharPro">
-  <img height="190rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZaharPro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
-  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaharPro&layout=compact&langs_count=8&theme=algolia&hide=php,html" alt="Most Used Languages"/>
+<a href="https://github.com/zahar-sh">
+  <img height="190rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zahar-sh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahar-sh&layout=compact&langs_count=8&theme=algolia&hide=php,html" alt="Most Used Languages"/>
 </a>
